@@ -1,12 +1,12 @@
-# _{My Cat Blog}_
+# _My Cat Blog_
 
-#### _{a simple plain log about my cat}, {02/07/2017}_
+#### _a simple plain log about my cat, 02/07/2017_
 
-#### By _**{Alsus Sy}**_
+#### By _**Alsus Sy**_
 
 ## Description
 
-_{This is a simple page using html tags, not thing special. }_
+_This is a simple page using html tags, not thing special. _
 
 ## Setup/Installation Requirements
 
@@ -18,4 +18,4 @@ _HTML_
 
 ### This software is licensed under the MIT license.
 
-Copyright (c) 2016 **_{Alsus Sy}_**
+Copyright (c) 2017 
