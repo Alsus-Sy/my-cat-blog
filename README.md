@@ -6,11 +6,11 @@
 
 ## Description
 
-_This is a simple page using html tags, not thing special. _
+_This is a simple page using html tags, not thing special._
 
 ## Setup/Installation Requirements
 
-* _just clone this repository to your local device_
+ _just clone this repository to your local device_
 
 ## Technologies Used
 
@@ -18,4 +18,4 @@ _HTML_
 
 ### This software is licensed under the MIT license.
 
-Copyright (c) 2017 
+Copyright (c) 2017
