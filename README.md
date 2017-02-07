@@ -1,6 +1,6 @@
 # _My Cat Blog_
 
-#### _a simple plain log about my cat, 02/07/2017_
+#### _a simple plain page about my cat, 02/07/2017_
 
 #### By _**Alsus Sy**_
 
